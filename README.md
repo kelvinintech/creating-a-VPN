@@ -154,3 +154,12 @@ You will be prompted to enter your credentials. Select <b>more choices</b> at th
 
 </p>
 
+<p>
+  Next you are going to return to https://whatismyipaddress.com/ but this time, you are going to it in your virtual machine. If you are a bit confused as to which is your VM and your PC, Your VM will have the IP address at the top of the browser
+  <br />
+  <img width="960" alt="whole screen" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/af3dcac6-e0c0-494c-9d93-ecb80bd1bb29">
+
+</p>
+
+  
+
