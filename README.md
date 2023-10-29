@@ -174,13 +174,18 @@ Duplicate your VM's IP address and insert it into the notepad document you previ
   <p>
     Within your PC, you are going to sign up for Proton VPN.
     <br /><img width="90" alt="PROTON VPN" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/6fd9e26c-9028-4678-b507-3fea954f43e5">
+    <br />
     Once we sign up, were going <b>back</b> to https://whatismyipaddress.com/
   <br />
 
-  Once you have accessed https://protonvpn.com/ create an account
+  Once you have accessed https://protonvpn.com/ create an account  
+  
 <br />
+
 <img width="839" alt="proton vpn 2" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/1620874e-7679-4a64-8436-8f6fbbfc19ed">
 
+You will see pricing options. Click "Get Proton Free"
+<img width="880" alt="proton vpn 3" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/cb508c6f-fd82-403c-b3df-4ee18dd60f3a">
 </p>
 
 
