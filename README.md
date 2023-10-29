@@ -188,7 +188,16 @@ You will see pricing options. Click "Get Proton Free"
 <img width="880" alt="proton vpn 3" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/cb508c6f-fd82-403c-b3df-4ee18dd60f3a">
 </p>
 
+<p>Once you have signed into Proton on your machine, take the URL, which would be 
+  <br /> 
+  
+  https://account.protonvpn.com/downloads 
+<br /> Copy it, and paste it into your VM's browser, then sign in using the same credentials for Proton
+ 
+  <br /> <img width="958" alt="vpn whole screen" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/6d14c8d7-fb08-4f89-9b73-bd0e564038ca">
 
+</p>
+  
 
   
 
