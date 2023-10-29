@@ -161,5 +161,15 @@ You will be prompted to enter your credentials. Select <b>more choices</b> at th
 
 </p>
 
+
+  <p>
+Duplicate your VM's IP address and insert it into the notepad document you previously utilized.
+  <br />
+    <img width="350" alt="notepad vm" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/c4effee0-477e-4749-b74c-7df36942400d">
+
+
+
+</p>
+
   
 
