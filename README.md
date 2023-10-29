@@ -167,9 +167,19 @@ Duplicate your VM's IP address and insert it into the notepad document you previ
   <br />
     <img width="350" alt="notepad vm" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/c4effee0-477e-4749-b74c-7df36942400d">
 
+</p>
+
+
+
+  <p>
+    Within the VM, you are going to sign up for Proton VPN. Once we sign up, were going <b>back</b> to https://whatismyipaddress.com/
+  <br />
+    <img width="90" alt="PROTON VPN" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/6fd9e26c-9028-4678-b507-3fea954f43e5">
 
 
 </p>
+
+
 
   
 
