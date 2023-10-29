@@ -148,3 +148,9 @@ You will be prompted to enter your credentials. Select <b>more choices</b> at th
 </p>
 
 
+<p>
+  Disable all settings once this menu appears. Then, click <b>accept.</b>
+  <br /><img width="514" alt="disable" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/63791dd0-94a6-43d6-8d7f-5b2e98e2fc43">
+
+</p>
+
