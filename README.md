@@ -41,7 +41,9 @@ Click on 'Create' denoted by the + symbol, then choose the Azure Virtual Machine
 
   Permit Azure to generate the resource group on your behalf. Typically, it will opt for the name you've chosen for your virtual machine
   <br />
-<img width="572" alt="creating a vm 2 " src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/303c9dd4-4ef0-4b4f-9717-5f39d3ace754">
+
+<img width="572" alt="creating a vm 2 " src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/ba2ed3f0-e0de-4dd8-a782-a1d91a8ad8df">
+
 <br />
 
 </p>
