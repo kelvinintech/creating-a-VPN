@@ -200,6 +200,12 @@ Once in your Virtual Machine and signed into Proton, download the Windows VPN
 
 <br /> <img width="539" alt="vpn download windows" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/cf681992-f0a8-4234-a191-3b84c17a0f6b">
 
+
+Click Download Proton VPN 
+
+<br /><b>Remeber, you are in your VM, not your PC</b>
+<br /><img width="182" alt="download windows vpn" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/03d76e18-6005-4280-9798-5a2c167c99c0">
+
 </p>
   
 
