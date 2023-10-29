@@ -117,6 +117,16 @@ Azure offers a range of options for managing availability and resiliency for you
 
 
  Access the VM you just made and copy your public IP address
+ <br />
+ 
 <img width="948" alt="vm practice public id" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/8ec87936-b65a-4d62-bf5b-d6197de3ad15">
+
+</p>
+
+
+<p>
+  Go to your search bar to access Remote Control Desktop
+  
+  <img width="260" alt="remote desktop" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/154c7650-9743-41fa-88a6-a5cc7ec8ff1c">
 
 </p>
