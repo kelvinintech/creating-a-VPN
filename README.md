@@ -97,9 +97,24 @@ Azure offers a range of options for managing availability and resiliency for you
 
 <p>
   select Review + create in bottom corner
+
+  
   <br />
 
   
   <img width="463" alt="review and create" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/a6cb46db-e34a-4a6f-8887-b23cb69af356">
+
+</p>
+
+
+
+<p>
+
+  After the deployment finishes, return to the main Azure screen by clicking on "Microsoft Azure" located at the top left corner. From there, choose "Virtual Machine" to access the VM you've just created. You can also reach the Virtual Machine via the search bar at the top.
+  
+  <br />
+  <img width="479" alt="deployment complete" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/3961ad3a-e0a7-415d-8bcd-a8da827924b9">
+
+  <img width="948" alt="vm practice" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/5ee08781-4acb-41a4-9ad2-d8cf96ae11c7">
 
 </p>
