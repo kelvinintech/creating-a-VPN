@@ -190,7 +190,6 @@ You will see pricing options. Click "Get Proton Free"
 
 <p>Once you have signed into Proton on your machine, take the URL, which would be 
   <br /> 
-  
   https://account.protonvpn.com/downloads 
 <br /> Copy it, and paste it into your VM's browser, then sign in using the same credentials for Proton
  
