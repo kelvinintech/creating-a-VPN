@@ -87,3 +87,11 @@ Azure offers a range of options for managing availability and resiliency for you
   <BR /><img width="519" alt="SECURITY TYPE" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/58b5272c-eb64-4691-ab16-70da26837a5c">
 
 </P>
+
+
+<p>
+  select Review + create in bottom corner
+  <br />
+  <img width="463" alt="review and create" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/a6cb46db-e34a-4a6f-8887-b23cb69af356">
+
+</p>
