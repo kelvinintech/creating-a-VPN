@@ -81,7 +81,9 @@ Azure offers a range of options for managing availability and resiliency for you
 <P>
   Security type should be set to <b>standard</b>
   <br />
-  for the <b>image</b> select <b>Windows 10</b>
+  <i>Security type refers to the different security features available for a virtual machine.</i>
+  <br />
+  For the image<b>(Base operating system or application for the VM)</b> select <b>Windows 10</b>
   <BR /><img width="519" alt="SECURITY TYPE" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/58b5272c-eb64-4691-ab16-70da26837a5c">
 
 </P>
