@@ -210,7 +210,7 @@ Accept all the default settings and proceed with download
 <br /> 
 <img width="488" alt="vpn defaults" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/a0a9799c-f82f-48a8-93a7-3779495647d2">
 
-log in with the same credentials
+log in with the same <b>Proton</b> credentials
 <br /> <img width="600" alt="proton credentials" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/47128871-5462-4965-870f-161d30a74f66">
 
 
