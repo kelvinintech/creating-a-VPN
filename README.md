@@ -224,6 +224,20 @@ Once logged in select Japan as the server. Do not select <b>Quick Connect</b> fo
 
 <br /><img width="622" alt="vpn illustration" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/f8e9f2fb-098b-4cbb-9ae5-664739e211da">
 
+The server will begin loading. 
+<br /> You can tell if the connection is dropped because the screen will freeze is some cases
+
+<br /><img width="400" alt="vpn server loading" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/19171b90-c9a6-4a0f-85c7-57f7841fd36a">
+
+Once this screen has displayed again,  you are offically connected to the server
+<br /><img width="470" alt="vpn japan connect 2" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/e7db7c31-27e4-48e4-8dbc-fb2cbdabd5b0">
+
+<br /><i>congratulations</i>
+
+On our Virtual Machine we are going <b>back</b> to https://whatismyipaddress.com/
+
+<img width="623" alt="VPN SETTINGS CHANGED" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/950003ed-e2e6-4ace-9a56-1fd9696b15a3">
+
 </p>
   
 
