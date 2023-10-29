@@ -9,7 +9,10 @@
 
 
 <p>
-![screenshot azure 1](https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/6e5ae608-755c-4add-b95f-d41ae0a1aecc)
 
+![whatismyipaddress](https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/e5d68d91-911f-40a3-a4fd-249f5c704c5c)
+
+
+![screenshot azure 1](https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/9bb7a7d8-460a-4fe5-92e3-1f73baf34703)
 
 </p>
