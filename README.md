@@ -207,7 +207,12 @@ Click Download Proton VPN
 <br /><img width="182" alt="download windows vpn" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/03d76e18-6005-4280-9798-5a2c167c99c0">
 
 Accept all the default settings and proceed with download
-<br /> <img width="163" alt="vpn defaults" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/4aae1533-9a31-4156-b622-758442836a99">
+<br /> 
+<img width="488" alt="vpn defaults" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/a0a9799c-f82f-48a8-93a7-3779495647d2">
+
+log in with the same credentials
+<br /> <img width="600" alt="proton credentials" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/47128871-5462-4965-870f-161d30a74f66">
+
 
 </p>
   
