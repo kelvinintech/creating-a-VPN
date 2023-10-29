@@ -67,7 +67,8 @@ Click on 'Create' denoted by the + symbol, then choose the Azure Virtual Machine
 Azure offers a range of options for managing availability and resiliency for your applications. Architect your solution to use replicated VMs in Availability Zones or Availability Sets to protect your apps and data from datacenter outages and maintenance events.</em>
 
 <br />
-<img width="586" alt="creating a vm 3" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/412456fe-8612-4a55-951e-6ffbfb747b18">
+<img width="462" alt="region" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/49c5a114-1fdd-45f2-a782-790e69b29daf">
+
 
 <br />
 
