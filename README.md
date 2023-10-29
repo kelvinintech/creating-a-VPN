@@ -141,7 +141,10 @@ You will be prompted to enter your credentials. Select <b>more choices</b> at th
 <img width="337" alt="more choices" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/c5fe4693-2764-4cdb-a0e4-e7c29c49db60">
 
 <p>
+  Once you see this window, accept the certificate. Then you will be connected.
   
+<br /><img width="332" alt="accept certificate" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/d72c0ee5-bde2-4b41-8f65-800a93af12bc">
+
 </p>
 
 
