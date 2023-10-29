@@ -115,6 +115,8 @@ Azure offers a range of options for managing availability and resiliency for you
   <br />
   <img width="479" alt="deployment complete" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/3961ad3a-e0a7-415d-8bcd-a8da827924b9">
 
-  <img width="948" alt="vm practice" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/5ee08781-4acb-41a4-9ad2-d8cf96ae11c7">
+
+ Access the VM you just made and copy your public IP address
+<img width="948" alt="vm practice public id" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/8ec87936-b65a-4d62-bf5b-d6197de3ad15">
 
 </p>
