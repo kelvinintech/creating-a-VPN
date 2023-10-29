@@ -137,5 +137,11 @@ Paste your IP address in the proper field
 
 
 </p>
+You will be prompted to enter your credentials. Select <b>more choices</b> at the bottom
+<img width="337" alt="more choices" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/c5fe4693-2764-4cdb-a0e4-e7c29c49db60">
+
+<p>
+  
+</p>
 
 
