@@ -218,7 +218,7 @@ Once logged in select Japan as the server. Do not select <b>Quick Connect</b> fo
 
 <br /> <i>I've stopped using the quick connect to fastest, because I found it connected to servers that were abnormally slow</i>
 
-<h3>Once you connect to the Japan, it is essentially creating a tunnel to a server in Japan</h3> 
+<h3>Once you connect to the Japan server(or quick connect/whatever server you selected), it is essentially creating a tunnel to a server in Japan</h3> 
 
 <br />The image below is a illustration of the what is happening
 
