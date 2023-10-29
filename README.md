@@ -44,8 +44,17 @@ Click on 'Create' denoted by the + symbol, then choose the Azure Virtual Machine
 <img width="572" alt="creating a vm 2 " src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/303c9dd4-4ef0-4b4f-9717-5f39d3ace754">
 <br />
 
+</p>
 
-  
+
+<p>
+
+ <bold>NOTE! MAKE THE REGION SOMEWHERE DIFFERENT FROM WHERE YOU LIVE!!</bold>
+  I'm in Atlanta, GA so I chose WEST US
+<br />
+<img width="462" alt="region" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/373f532f-1922-46bc-9ee0-a47980bf991f">
+<br />
+
 </p>
 
 
