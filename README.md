@@ -213,6 +213,11 @@ Accept all the default settings and proceed with download
 log in with the same <b>Proton</b> credentials
 <br /> <img width="600" alt="proton credentials" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/47128871-5462-4965-870f-161d30a74f66">
 
+Once logged in
+
+select Japan as the server. Do not select <b>Quick Connect</b> for this exercise
+<br /><img width="467" alt="vpn japan connect" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/b88608fb-d4eb-4d31-9542-6831c69a9024">
+<br  <i>I've stopped using the quick connect to fastest, because I found it connected to servers that were abnormally slow</i>
 
 </p>
   
