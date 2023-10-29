@@ -59,7 +59,7 @@ Click on 'Create' denoted by the + symbol, then choose the Azure Virtual Machine
 
 <p>
 
- <bold>For the Availability Options select <bold>No Infrastructure Redundancy Required</bold> from the dropdown menu
+ <bold>For the Availability Options select <b>No Infrastructure Redundancy Required</b> from the dropdown menu
  <br />
 <em>
 Azure offers a range of options for managing availability and resiliency for your applications. Architect your solution to use replicated VMs in Availability Zones or Availability Sets to protect your apps and data from datacenter outages and maintenance events.</em>
