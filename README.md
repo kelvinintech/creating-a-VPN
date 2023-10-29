@@ -124,10 +124,18 @@ Azure offers a range of options for managing availability and resiliency for you
 </p>
 
 
-<p>
+<p> 
+  
   Go to your search bar to access Remote Control Desktop
   
   <br />
+  
   <img width="260" alt="remote desktop" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/154c7650-9743-41fa-88a6-a5cc7ec8ff1c">
 
+Paste your IP address in the proper field 
+<br /><img width="302" alt="VM IP HERE" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/a10dd6d4-575b-4194-b332-1b79799a3623">
+
+
 </p>
+
+
