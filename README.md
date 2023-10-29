@@ -27,9 +27,12 @@ The initial action in this process is to visit www.whatismyipaddress.com. Once t
 
 <p>
 
-The subsequent action involves visiting portal.azure.com and initiating the creation of a virtual machine. Navigate to Azure Services on the Azure homepage and select Virtual Machines. Click on 'Create' denoted by the + symbol, then choose the Azure Virtual Machine option. Look for the small text stating 'Create a virtual machine hosted by Azure' and proceed by selecting that.
+The subsequent action involves visiting portal.azure.com and initiating the creation of a virtual machine. Navigate to Azure Services on the Azure homepage and select Virtual Machines. 
 <br />
 ![creating a vm 1](https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/1f909643-5e7b-4a2c-abef-b3e11854755e)
+
+Click on 'Create' denoted by the + symbol, then choose the Azure Virtual Machine option. Look for the small text stating 'Create a virtual machine hosted by Azure' and proceed by selecting that.
+<br />
 <img width="194" alt="creating a vm" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/4b738e21-fa95-4929-b566-4e94c7036515">
 
 
