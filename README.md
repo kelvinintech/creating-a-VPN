@@ -215,7 +215,14 @@ log in with the same <b>Proton</b> credentials
 
 Once logged in select Japan as the server. Do not select <b>Quick Connect</b> for this exercise
 <br /><img width="467" alt="vpn japan connect" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/b88608fb-d4eb-4d31-9542-6831c69a9024">
+
 <br /> <i>I've stopped using the quick connect to fastest, because I found it connected to servers that were abnormally slow</i>
+
+<h3>Once you connect to the Japan, it is essentially creating a tunnel to a server in Japan</h3> 
+
+<br />The image below is a illustration of the what is happening
+
+<br /><img width="622" alt="vpn illustration" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/f8e9f2fb-098b-4cbb-9ae5-664739e211da">
 
 </p>
   
