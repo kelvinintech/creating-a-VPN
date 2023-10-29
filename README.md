@@ -195,6 +195,11 @@ You will see pricing options. Click "Get Proton Free"
  
   <br /> <img width="958" alt="vpn whole screen" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/6d14c8d7-fb08-4f89-9b73-bd0e564038ca">
 
+
+Once in your Virtual Machine and signed into Proton, download the Windows VPN 
+
+<br /> <img width="539" alt="vpn download windows" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/cf681992-f0a8-4234-a191-3b84c17a0f6b">
+
 </p>
   
 
