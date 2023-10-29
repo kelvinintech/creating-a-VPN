@@ -18,3 +18,13 @@
 ![whatismyipaddress](https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/e5d68d91-911f-40a3-a4fd-249f5c704c5c)
 
 </p>
+
+
+<p>
+
+![whatismyipaddress 2](https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/15db5a19-f1d3-4a6f-888c-870048ec6bfb)
+
+
+</p>
+
+
