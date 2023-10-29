@@ -57,4 +57,16 @@ Click on 'Create' denoted by the + symbol, then choose the Azure Virtual Machine
 
 </p>
 
+<p>
 
+ <bold>For the Availability Options select <bold>No Infrastructure Redundancy Required</bold> from the dropdown menu
+ <br />
+<em>
+Azure offers a range of options for managing availability and resiliency for your applications. Architect your solution to use replicated VMs in Availability Zones or Availability Sets to protect your apps and data from datacenter outages and maintenance events.</em>
+
+<br />
+<img width="586" alt="creating a vm 3" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/412456fe-8612-4a55-951e-6ffbfb747b18">
+
+<br />
+
+</p>
