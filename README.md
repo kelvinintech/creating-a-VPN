@@ -1,7 +1,15 @@
 # creating-a-VPN
 
 
+
 <p>
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Proton VPN https://protonvpn.com/
+  
 <b>What is VPN and why do I need it?</b>
 
 <br />A VPN, which stands for virtual private network, establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet.
