@@ -275,7 +275,4 @@ The IP address and location should be of your newly established VPN created in P
 
   <h4>There you go! You've successfully created a VPN! Hope this was helpful. If you have any questions or concerns, feel free to message me. Take care!</h4>
 
-  [twitter]: https://twitter.com/kelvinrtobias
-[instagram]: https://www.instagram.com/codebykelvin/
-[linkedin]: https://www.linkedin.com/in/kelvin-r-tobias-211949219/
 
