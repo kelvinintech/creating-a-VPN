@@ -238,8 +238,13 @@ On our Virtual Machine we are going <b>back</b> to https://whatismyipaddress.com
 
 <img width="623" alt="VPN SETTINGS CHANGED" src="https://github.com/codeByKelvinn/creating-a-VPN/assets/110644520/950003ed-e2e6-4ace-9a56-1fd9696b15a3">
 
+
+The IP address and location should be of your newly established VPN created in Proton
+<i>if you selected Japan in Proton, to go https://www.google.com and it should be in Japanese.</i>
 </p>
-  
+
+
+  <h4>There you go! You've successfully created a VPN! Hope this was helpful. If you have any questions or concerns, feel free to message me. Take care!</h4>
 
   
 
