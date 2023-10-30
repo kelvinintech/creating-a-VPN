@@ -3,7 +3,10 @@
 <p>
 
   Learning to use a Virtual Private Network (VPN) is often necessary for an IT professional due to various reasons.
+
+  
   <br />
+  
   <b>Remote Access</b>: Helpdesk support often requires accessing internal company systems and tools. A VPN allows secure access to these resources remotely, especially if the helpdesk team members are not physically present in the office.
 
 <b>Security and Privacy</b>: Using a VPN ensures that data transmitted between the helpdesk support agent's device and the company's network is encrypted and secure. This is crucial when handling sensitive information or accessing company systems to avoid potential security breaches.
