@@ -1,6 +1,16 @@
 # creating-a-VPN
 
+<p>
+  <b></b>Remote Access</b>: Helpdesk support often requires accessing internal company systems and tools. A VPN allows secure access to these resources remotely, especially if the helpdesk team members are not physically present in the office.
 
+<b>Security and Privacy</b>: Using a VPN ensures that data transmitted between the helpdesk support agent's device and the company's network is encrypted and secure. This is crucial when handling sensitive information or accessing company systems to avoid potential security breaches.
+
+<b>Client/Company Confidentiality</b>: Helpdesk support may involve handling proprietary or confidential information. Using a VPN helps maintain the confidentiality of data and communications, ensuring that customer and company information remains protected.
+
+<b>Access Control and Compliance</b>: Companies often have access restrictions or compliance requirements. A VPN enables helpdesk employees to comply with these access control measures, allowing them to securely connect and work within the company's network without violating security protocols.
+
+<b>Experience and Troubleshooting</b>: Familiarity with VPNs might also be essential when providing support to customers who use VPNs themselves. Understanding how VPNs work can help troubleshoot connectivity issues or guide users through setting up their VPN connections.
+</p>
 
 <p>
 
